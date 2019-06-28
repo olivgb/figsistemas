@@ -1,0 +1,22 @@
+Fig sistemas é um sistema de Alugueis de Roupa criado para uma loja de roupas de noivas
+
+Usando c# e mysql para o desktop e para criação de funcionario html,css,php e mysql.
+
+
+modo de usar: Primeiro você vai criar um funcionario no link: http://figsistemas.ga/cadastro.php
+e você terá que da um permissão a ele para poder usar a tela alterar (permissão 1 = pode entrar na tela alterar, permissão 0 = não pode entrar na tela alterar).
+
+depois disso você entra na pasta Funcionario dentro de FigSistema e segue esse caminho
+(FigSistemaRodando\Funcionario\bin\Debug) e abre o Funcionario.exe e vê se o funcionario que você crio está lá.
+
+feito isso, você vai no figsistemasrodando de novo e vai entrar na pasta FigSistemas2.0beta e segue esse caminho
+(FigSistemaRodando\FigSistemas2.0beta\bin\Debug) e abre o FigSistemas2.0beta.exe e loga com o usuario que você crio.
+
+com isso você já pode usar o sistema.
+
+
+*** Importante ***
+
+Esse sistema está em criação e tem coisas que estão pela metade.
+
+**Para concluir = Contrato e NFC.**
